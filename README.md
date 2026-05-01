@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- HEADER WAVE -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8f9fa,25:e9ecef,50:dee2e6,75:c0392b,100:e74c3c&height=240&section=header&text=Salman%20Ejaz&fontSize=48&fontColor=1a202c&fontAlignY=30&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20Cloud-Native%20%E2%80%A2%20Event-Driven%20Systems&descSize=16&descAlignY=52&descColor=c0392b&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8f9fa,25:e9ecef,50:dee2e6,75:c0392b,100:e74c3c&height=240&section=header&text=Salman%20Ejaz&fontSize=48&fontColor=1a202c&fontAlignY=30&desc=Senior%20Full-Stack%20AI%20Engineer%20%E2%80%A2%20System%20Architect%20%E2%80%A2%20Technical%20Leader&descSize=16&descAlignY=52&descColor=c0392b&animation=fadeIn" width="100%" />
 
 <!-- TYPING SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=E74C3C&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=80&lines=%E2%9A%A1+Building+Software+That+Drives+Business+%E2%9A%A1;System+Design+%E2%80%A2+Cloud+Native+%E2%80%A2+Event+Driven+%E2%80%A2+6%2B+Years)](https://git.io/typing-svg)
