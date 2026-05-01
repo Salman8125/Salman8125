@@ -3,35 +3,19 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- HEADER WAVE -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8f9fa,25:e9ecef,50:dee2e6,75:c0392b,100:e74c3c&height=240&section=header&text=Saad%20Ul%20Hassan&fontSize=48&fontColor=1a202c&fontAlignY=30&desc=Senior%20Full-Stack%20AI%20Engineer%20%E2%80%A2%20System%20Architect%20%E2%80%A2%20Technical%20Leader&descSize=16&descAlignY=52&descColor=c0392b&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8f9fa,25:e9ecef,50:dee2e6,75:c0392b,100:e74c3c&height=240&section=header&text=Salman%20Ejaz&fontSize=48&fontColor=1a202c&fontAlignY=30&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20Cloud-Native%20%E2%80%A2%20Event-Driven%20Systems&descSize=16&descAlignY=52&descColor=c0392b&animation=fadeIn" width="100%" />
 
 <!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=E74C3C&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=80&lines=%E2%9A%A1+Building+Software+That+Drives+Business+%E2%9A%A1;System+Design+%E2%80%A2+AI+Infrastructure+%E2%80%A2+Enterprise+Scale+%E2%80%A2+8%2B+Years)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=E74C3C&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=80&lines=%E2%9A%A1+Building+Software+That+Drives+Business+%E2%9A%A1;System+Design+%E2%80%A2+Cloud+Native+%E2%80%A2+Event+Driven+%E2%80%A2+6%2B+Years)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- SOCIAL LINKS -->
-<a href="https://www.linkedin.com/in/saad-ul-hassan-72a7b1190/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;
-<a href="https://www.saadulhassan.dev/">
-  <img src="https://img.shields.io/badge/saadulhassan.dev-e74c3c?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>&nbsp;
-<a href="mailto:saad.ul.hussan17@gmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-c0392b?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;
-<a href="https://www.toptal.com/developers/resume/saad-ul-hassan">
-  <img src="https://img.shields.io/badge/Toptal-3863A0?style=for-the-badge&logo=toptal&logoColor=white" />
-</a>
-
-<br/><br/>
-
 <!-- METRICS -->
-<img src="https://img.shields.io/badge/Experience-8%2B_Years-c0392b?style=flat-square&labelColor=1a202c&color=e74c3c" />
+<img src="https://img.shields.io/badge/Experience-6%2B_Years-c0392b?style=flat-square&labelColor=1a202c&color=e74c3c" />
 &nbsp;
-<img src="https://img.shields.io/badge/Industries-10%2B_Verticals-c0392b?style=flat-square&labelColor=1a202c&color=e74c3c" />
+<img src="https://img.shields.io/badge/Domains-Fintech_%E2%80%A2_Healthcare_%E2%80%A2_Ecommerce-c0392b?style=flat-square&labelColor=1a202c&color=e74c3c" />
 &nbsp;
-<img src="https://img.shields.io/badge/Award-SCF_Round_%2311_Winner-c0392b?style=flat-square&labelColor=1a202c&color=e74c3c" />
+<img src="https://img.shields.io/badge/Certified-AWS_Solutions_Architect-c0392b?style=flat-square&labelColor=1a202c&color=e74c3c" />
 &nbsp;
 <img src="https://img.shields.io/badge/Delivery-Enterprise_Scale-c0392b?style=flat-square&labelColor=1a202c&color=e74c3c" />
 &nbsp;
@@ -46,35 +30,33 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28">&nbsp; The Engineer
 
 ```typescript
-class SaadUlHassan {
+class SalmanEjaz {
 
-  readonly title    = "Senior Full-Stack AI Engineer";
-  readonly company  = "Toptal → AgentPress";
-  readonly location = "Pakistan 🇵🇰 • Serving Clients Globally 🌍";
+  readonly title    = "Full-Stack Software Engineer";
+  readonly company  = "Octaloops";
+  readonly location = "Pakistan 🇵🇰";
 
   readonly domains = [
-    "Fintech & Payment Systems",
+    "Fintech & Remittance Platforms",
+    "Compliance & Sanctions Screening",
     "AI / Generative AI Products",
-    "E-Commerce & POS Platforms",
-    "Transportation & Logistics",
-    "Construction Management",
-    "Fitness & Wellbeing",
-    "Booking & Reservation Systems",
-    "Real Estate & Property Tech",
-    "Healthcare & Telemedicine",
-    "EdTech & Learning Platforms",
+    "Healthcare",
+    "E-Commerce",
+    "Enterprise SaaS",
+    "Data Engineering & Analytics",
   ];
 
   readonly architecture = [
-    "Microservices",  "Event-Driven",   "Serverless",
-    "Multi-Tenant",   "Domain-Driven",  "Test-Driven",
+    "Microservices",       "Event-Driven",      "Serverless",
+    "Multi-Tenant",        "Domain-Driven",     "Test-Driven",
+    "Distributed Systems", "SOA",               "Async Processing",
   ];
 
   readonly currentFocus = {
-    building:    "Multi-tenant AI infrastructure at enterprise scale",
-    shipping:    "Booking & Reservation • Community • Housing platforms",
-    leading:     "Engineering strategy & cross-platform product delivery",
-    innovating:  "RAG pipelines • MCP ecosystems • Real-time voice AI",
+    building:    "Java Spring Boot microservices for fintech compliance",
+    shipping:    "Kafka event-driven pipelines with Outbox + Debezium CDC",
+    leading:     "End-to-end compliance module: screening, case mgmt, sanctions",
+    innovating:  "MCP-based AI orchestration with secure structured tool-calling",
   };
 
   get philosophy(): string {
@@ -84,7 +66,7 @@ class SaadUlHassan {
 ```
 
 > **I don't just write code, I engineer revenue-driving systems.**  
-> From payment platforms processing millions in transactions to AI infrastructure serving enterprise clients, I build software designed to scale with your ambition.
+> From fintech remittance platforms with PCI-aligned security to AI-orchestrated developer workflows, I build software designed to scale, stay consistent, and meet compliance.
 
 ---
 
@@ -100,6 +82,7 @@ class SaadUlHassan {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -110,6 +93,7 @@ class SaadUlHassan {
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Ember.js](https://img.shields.io/badge/Ember.js-E04E39?style=for-the-badge&logo=ember.js&logoColor=white)
 ![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
 ![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -127,8 +111,14 @@ class SaadUlHassan {
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring WebFlux](https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate%2FJPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=googlecloud&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-2D3748?style=for-the-badge)
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
@@ -146,35 +136,67 @@ class SaadUlHassan {
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### ☁️ Cloud & DevOps
+### ☁️ AWS Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
 ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 ![ECS](https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white)
+![EKS](https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white)
+![ECR](https://img.shields.io/badge/ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
 ![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Glue](https://img.shields.io/badge/Glue-FF9900?style=for-the-badge&logo=awsglue&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-FF4F8B?style=for-the-badge&logo=amazonvpc&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white)
+![ElastiCache](https://img.shields.io/badge/ElastiCache-C925D1?style=for-the-badge&logo=amazonelasticache&logoColor=white)
+![Route53](https://img.shields.io/badge/Route53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazoniam&logoColor=white)
+![EventBridge](https://img.shields.io/badge/EventBridge-FF4F8B?style=for-the-badge&logo=amazoneventbridge&logoColor=white)
 ![Amplify](https://img.shields.io/badge/Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-232F3E?style=for-the-badge&logo=amazoncloudfront&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-E7157B?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![CloudFront](https://img.shields.io/badge/CloudFront-232F3E?style=for-the-badge&logo=amazoncloudfront&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🌐 Google Cloud Platform
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![GKE](https://img.shields.io/badge/GKE-4285F4?style=for-the-badge&logo=googlekubernetesengine&logoColor=white)
+![Compute Engine](https://img.shields.io/badge/Compute_Engine-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![App Engine](https://img.shields.io/badge/App_Engine-4285F4?style=for-the-badge&logo=googleappengine&logoColor=white)
+![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Cloud Storage](https://img.shields.io/badge/Cloud_Storage-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Cloud SQL](https://img.shields.io/badge/Cloud_SQL-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Pub/Sub](https://img.shields.io/badge/Pub%2FSub-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Memorystore](https://img.shields.io/badge/Memorystore-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![GCP IAM](https://img.shields.io/badge/Cloud_IAM-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Cloud LB](https://img.shields.io/badge/Cloud_Load_Balancing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ### 🗃️ Databases, Cache & Messaging
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MS SQL](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![Apache Iceberg](https://img.shields.io/badge/Apache_Iceberg-1394C7?style=for-the-badge&logo=apache&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Debezium CDC](https://img.shields.io/badge/Debezium_CDC-D81A0F?style=for-the-badge&logo=debezium&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![SQS](https://img.shields.io/badge/SQS-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white)
 ![SNS](https://img.shields.io/badge/SNS-FF9900?style=for-the-badge&logo=amazonsimplenotificationservice&logoColor=white)
 
@@ -182,26 +204,43 @@ class SaadUlHassan {
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=black)
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-![Coralogix](https://img.shields.io/badge/Coralogix-000000?style=for-the-badge&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge)
+![Karate](https://img.shields.io/badge/Karate-00BFFF?style=for-the-badge)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![Coralogix](https://img.shields.io/badge/Coralogix-000000?style=for-the-badge)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Log4j](https://img.shields.io/badge/Log4j-B22222?style=for-the-badge&logo=apache&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![Stencil](https://img.shields.io/badge/Stencil-3D4C6A?style=for-the-badge&logo=stencil&logoColor=white)
 ![K6](https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
+![Artillery](https://img.shields.io/badge/Artillery-FA7F25?style=for-the-badge)
 
-### 🔗 Integrations, Auth & Tooling
+### 🔐 Security & Compliance
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-000000?style=for-the-badge&logo=auth0&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![HIPAA](https://img.shields.io/badge/HIPAA_Compliant-008080?style=for-the-badge)
+![PCI-DSS](https://img.shields.io/badge/PCI--DSS_Aligned-1F3864?style=for-the-badge)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Veracode](https://img.shields.io/badge/Veracode-1A1A1A?style=for-the-badge)
+
+### 🔗 Integrations, Tooling & Version Control
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 ![SendGrid](https://img.shields.io/badge/SendGrid-1A82E2?style=for-the-badge&logo=sendgrid&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![Slack API](https://img.shields.io/badge/Slack_API-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![MS Teams](https://img.shields.io/badge/Teams_API-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
-![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-000000?style=for-the-badge&logo=auth0&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 </div>
 
@@ -218,18 +257,17 @@ class SaadUlHassan {
 <tr>
 <td width="50%" valign="top">
 
-### > &nbsp;AI Infrastructure, AgentPress
-> _Senior Full-Stack AI Engineer @ Toptal_
+### > &nbsp;Compliance & Remittance Platform, Octaloops
+> _Software Engineer @ Octaloops_
 
-Building **multi-tenant AI platforms** powering enterprise operations:
+Migrating a legacy .NET remittance & compliance platform to a **Java Spring Boot microservices** architecture:
 
-🔸 Engineered **generative AI products** across web & mobile
-🔸 Architected **RAG pipelines** with PGVector for intelligent retrieval  
-🔸 Created local + remote **MCP server ecosystems** for client apps  
-🔸 Built bulk **Whisper + FFmpeg** voice transcription pipelines  
-🔸 Shipped cross-platform chatbots, **Web, iOS, Android**  
-🔸 Integrated **MS Teams, Slack, SAP, Stripe** for enterprise extensibility  
-🔸 Drove adoption of **AI-first development workflows** org-wide  
+🔸 Owning the **end-to-end compliance module** — screening workflows, case management, sanction-check integrations  
+🔸 Designed **Kafka event-driven pipelines** with the Outbox pattern + Debezium CDC for transactional consistency  
+🔸 Implemented **idempotency strategies** & retry/batch reprocessing for remittance + screening flows  
+🔸 Enforced **PCI-aligned security** — OAuth2/JWT, encryption, role-based access control  
+🔸 Productionized **AI workflows** with prompt versioning, token/cost monitoring, retries/fallbacks  
+🔸 Shipped **MCP-based AI orchestration** with secure structured tool-calling for engineering workflows  
 
 </td>
 <td width="50%" valign="top">
@@ -267,114 +305,104 @@ Building **multi-tenant AI platforms** powering enterprise operations:
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 &nbsp;AgentPress
-> _AI-Powered Business Case Generation_
+### 💸 &nbsp;Compliance & Remittance Platform Migration
+> _Octaloops — Fintech_
 
-Enterprise AI platform that automates customized business value cases for sales teams. Patented AI generates persuasive financial justifications from a prospect's URL.
+Migrated a legacy .NET remittance and compliance platform to a Java Spring Boot microservices architecture, owning the end-to-end compliance module: screening workflows, case management, and sanction-check integrations.
 
-🔸 **+35%** avg deal size &nbsp; 🔸 **+48%** close rates &nbsp; 🔸 **-25%** sales cycles
+🔸 **PCI-aligned** &nbsp; 🔸 **Spring Boot Microservices** &nbsp; 🔸 **Compliance**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-e74c3c?style=flat-square)
-![MCP](https://img.shields.io/badge/MCP-8B5CF6?style=flat-square)
-
-<a href="https://agent.press/"><img src="https://img.shields.io/badge/Live-agent.press-e74c3c?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate%2FJPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-000000?style=flat-square&logo=auth0&logoColor=white)
+![PCI-DSS](https://img.shields.io/badge/PCI--DSS-1F3864?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-### 🏘️ &nbsp;KEYS Community
-> _Connect With Your Neighbourhood_
+### 🔁 &nbsp;Kafka Event-Driven Pipelines (Outbox + CDC)
+> _Octaloops — Distributed Systems_
 
-Cross-platform community app connecting residents with local services, events, and committees. Backend, web, admin panel, and ML-powered service classification.
+Designed Kafka pipelines using the **Outbox pattern with Debezium CDC** to reliably capture DB changes and publish events — ensuring transactional consistency, idempotent processing, and zero data loss across distributed services.
 
-🔸 **Web + iOS + Android** &nbsp; 🔸 **ML Classification** &nbsp; 🔸 **Multi-tenant**
+🔸 **Outbox + CDC** &nbsp; 🔸 **Idempotent** &nbsp; 🔸 **Zero Data Loss**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Debezium](https://img.shields.io/badge/Debezium_CDC-D81A0F?style=flat-square&logo=debezium&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-<a href="https://keyscommunity.co.uk/"><img src="https://img.shields.io/badge/Live-keyscommunity.co.uk-e74c3c?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 💪 &nbsp;Fitness & Wellbeing Platform
-> _Enterprise Boutique Fitness Management_
+### 🤖 &nbsp;MCP-Based AI Orchestration
+> _Octaloops — AI Engineering Workflows_
 
-Multi-tenant SaaS powering boutique fitness studios — class scheduling, member management, billing, and real-time analytics across hundreds of locations.
+Shipped an MCP-based AI orchestration with **secure structured tool-calling**, improving engineering iteration speed and reducing human error in day-to-day delivery workflows. Productionized with prompt/version management, cost monitoring, and output evaluation.
 
-🔸 **Multi-tenant SaaS** &nbsp; 🔸 **Ember + Django** &nbsp; 🔸 **Enterprise Scale**
+🔸 **MCP Servers** &nbsp; 🔸 **Tool-Calling** &nbsp; 🔸 **Cost-Controlled**
 
+![MCP Servers](https://img.shields.io/badge/MCP-8B5CF6?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔌 &nbsp;Workflow Orchestration Microservices
+> _Filzbe — Real-Time Event Streaming_
+
+Built **Node.js & Python microservices** for workflow orchestration, secure message routing, and real-time event streaming over RabbitMQ across distributed environments. Resilient containerized deployments across on-prem and cloud.
+
+🔸 **RabbitMQ** &nbsp; 🔸 **Node + Python** &nbsp; 🔸 **Containerized**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Ember.js](https://img.shields.io/badge/Ember.js-E04E39?style=flat-square&logo=ember.js&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
-
-### 🏗️ &nbsp;Projul
-> _Construction Management Software_
-
-All-in-one platform for construction companies to manage projects, teams, budgets, and communication — maximizing profit and streamlining operations.
-
-🔸 **Project Management** &nbsp; 🔸 **Team Coordination** &nbsp; 🔸 **Financial Tracking**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-<a href="https://projul.com/"><img src="https://img.shields.io/badge/Live-projul.com-e74c3c?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📊 &nbsp;Asteria.ai
-> _Smart Cash Flow Forecasting_
+### 🧊 &nbsp;ETL Pipelines & Apache Iceberg Data Lake
+> _Techorra — Data Engineering_
 
-AI-powered financial platform helping 10,000+ businesses forecast cash flow, identify risk, assess profitability, and plan capital deployment with intelligent recommendations.
+Engineered serverless **ETL pipelines on AWS** (Lambda, Glue, CDK, CloudFormation, S3, DynamoDB) and an **Apache Iceberg** data lake integrated with AWS Athena and Snowflake for scalable analytics and historical querying.
 
-🔸 **AI Forecasting** &nbsp; 🔸 **10K+ Businesses** &nbsp; 🔸 **Fintech**
+🔸 **Serverless ETL** &nbsp; 🔸 **Iceberg Lakehouse** &nbsp; 🔸 **Athena + Snowflake**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-<a href="http://asteria.ai/"><img src="https://img.shields.io/badge/Live-asteria.ai-e74c3c?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![Glue](https://img.shields.io/badge/Glue-FF9900?style=flat-square&logo=awsglue&logoColor=white)
+![Apache Iceberg](https://img.shields.io/badge/Iceberg-1394C7?style=flat-square&logo=apache&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### ⭐ &nbsp;Service Lovers
-> _Customer Feedback & Employee Engagement_
+### 📈 &nbsp;AI/ML Insights Platform
+> _Techorra — AI/ML + Analytics_
 
-Enterprise feedback platform with tablet kiosks, NPS/CSAT scoring, AI-driven insights, gamified employee performance tracking, and real-time dashboards across distributed locations.
+Developed AI/ML models with **scikit-learn and TensorFlow** for product insights and performance forecasts using ensemble-learning techniques. Built **Django** APIs and **React** dashboards over MongoDB aggregations for KPI visualization.
 
-🔸 **50+ DB Entities** &nbsp; 🔸 **Multi-location** &nbsp; 🔸 **Gamification**
+🔸 **scikit-learn + TF** &nbsp; 🔸 **Django + React** &nbsp; 🔸 **Mongo Aggregations**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![SendGrid](https://img.shields.io/badge/SendGrid-1A82E2?style=flat-square&logo=sendgrid&logoColor=white)
-
-<a href="https://servicelovers.com/"><img src="https://img.shields.io/badge/Live-servicelovers.com-e74c3c?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 </td>
 </tr>
@@ -397,10 +425,11 @@ Enterprise feedback platform with tablet kiosks, NPS/CSAT scoring, AI-driven ins
 ├──────────────────────┼──────────────────────┼──────────────────────┤
 │  Microservices       │  SOLID Principles    │  AWS Multi-Region    │
 │  Event-Driven Arch   │  Repository Pattern  │  Docker + K8s        │
-│  Serverless          │  Observer / Pub-Sub  │  CI/CD Pipelines     │
-│  Multi-Tenant SaaS   │  Factory / Strategy  │  Blue-Green Deploy   │
-│  Domain-Driven (DDD) │  MVC / MVVM         │  Load Balancing       │
+│  Serverless          │  Outbox + CDC        │  CI/CD Pipelines     │
+│  Multi-Tenant SaaS   │  Observer / Pub-Sub  │  Blue-Green Deploy   │
+│  Domain-Driven (DDD) │  Factory / Strategy  │  Load Balancing      │
 │  CQRS + Event Source │  Middleware Chains   │  Auto-Scaling        │
+│  Distributed / SOA   │  Idempotency Keys    │  Terraform / IaC     │
 ├──────────────────────┼──────────────────────┼──────────────────────┤
 │      DATA LAYER      │       SECURITY       │       QUALITY        │
 ├──────────────────────┼──────────────────────┼──────────────────────┤
@@ -409,6 +438,7 @@ Enterprise feedback platform with tablet kiosks, NPS/CSAT scoring, AI-driven ins
 │  DB Indexing         │  Secure HTTP Headers │  E2E + Perf Testing  │
 │  Caching Strategies  │  Input Validation    │  Code Reviews        │
 │  Data Migrations     │  Rate Limiting       │  Observability       │
+│  Iceberg Lakehouse   │  HIPAA / PCI-DSS     │  SonarQube / JaCoCo  │
 └──────────────────────┴──────────────────────┴──────────────────────┘
 ```
 
@@ -425,25 +455,23 @@ Enterprise feedback platform with tablet kiosks, NPS/CSAT scoring, AI-driven ins
 ```
   ┌────────────────────────────────────────────────────────────────────────┐
   │                                                                        │
-  │  > 2025 -- Present                                                     │
-  │    TOPTAL (AgentPress)         Senior Full-Stack AI Engineer           │
-  │    United States (Remote)      Leading AI infrastructure & products    │
-  │                                RAG | MCP | Voice AI | Cross-Platform   │
+  │  > Nov 2023 -- Present                                                 │
+  │    OCTALOOPS                   Software Engineer                       │
+  │                                Fintech compliance & remittance         │
+  │                                Java Spring Boot | Kafka + Debezium CDC │
+  │                                MCP-based AI orchestration | PCI-DSS    │
   │                                                                        │
-  │  > 2022 -- 2025                                                        │
-  │    EMBRACE-IT PAKISTAN          Senior Full Stack Engineer             │
-  │    Denmark (Remote)            Enterprise solutions | 3+ years         │
-  │                                React | Node | NestJS | React Native    │
+  │  > Oct 2022 -- Oct 2023                                                │
+  │    FILZBE                      Software Engineer                       │
+  │                                Workflow orchestration microservices    │
+  │                                Node.js + Python | RabbitMQ | Redis     │
+  │                                PostgreSQL | SQL Server | Docker        │
   │                                                                        │
-  │  > 2021 -- 2022                                                        │
-  │    SAUFIK                      Software Engineer -> Frontend Lead      │
-  │    Islamabad, Pakistan         Promoted for performance & leadership   │
-  │                                Led team of 4 | 85% bug fix rate        │
-  │                                                                        │
-  │  > 2018 -- 2021                                                        │
-  │    INEFFABLE DEVS              Frontend Engineer                       │
-  │    Islamabad, Pakistan         React | Jest | Performance +33%         │
-  │                                Maintenance overhead reduced 25%        │
+  │  > Nov 2019 -- Oct 2022                                                │
+  │    TECHORRA                    Software Engineer                       │
+  │                                AWS ETL pipelines | Apache Iceberg      │
+  │                                Snowflake | Athena | Django + React     │
+  │                                AI/ML with scikit-learn & TensorFlow    │
   │                                                                        │
   └────────────────────────────────────────────────────────────────────────┘
 ```
@@ -454,16 +482,14 @@ Enterprise feedback platform with tablet kiosks, NPS/CSAT scoring, AI-driven ins
 <!-- EDUCATION -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## 🎓 &nbsp;Education & Recognition
+## 🎓 &nbsp;Education & Certifications
 
 <div align="center">
 
 | | Credential | Institution |
 |:---:|:-----------|:------------|
-| 🎓 | **B.S. Computer Science**, [WES Evaluated](https://badges.wes.org/Evidence?i=1f5ba275-fcc7-4898-a373-ccca4b759e5c) | University of Engineering & Technology, Taxila |
-| 🔐 | **PGD Cyber Security** | Preston University |
-| 📜 | **Ilm-E-Deen**, Shariah & Islamic Studies | Alburhan Lahore |
-| 🏅 | **Winner, Stellar Community Fund Round #11** | Stellar Development Foundation |
+| 🎓 | **B.S. Computer Science** | University of Engineering and Technology |
+| ☁️ | **AWS Certified Solutions Architect – Associate** | Amazon Web Services |
 
 </div>
 
@@ -477,12 +503,12 @@ Enterprise feedback platform with tablet kiosks, NPS/CSAT scoring, AI-driven ins
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SaadUlHassan&show_icons=true&hide_border=true&bg_color=f8f9fa&title_color=e74c3c&icon_color=c0392b&text_color=1a202c&ring_color=e74c3c&count_private=true&cache_seconds=86400" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=SaadUlHassan&hide_border=true&background=f8f9fa&ring=e74c3c&fire=c0392b&currStreakLabel=e74c3c&sideLabels=1a202c&currStreakNum=1a202c&sideNums=1a202c&dates=4a5568" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Salman8125&show_icons=true&hide_border=true&bg_color=f8f9fa&title_color=e74c3c&icon_color=c0392b&text_color=1a202c&ring_color=e74c3c&count_private=true&cache_seconds=86400" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=Salman8125&hide_border=true&background=f8f9fa&ring=e74c3c&fire=c0392b&currStreakLabel=e74c3c&sideLabels=1a202c&currStreakNum=1a202c&sideNums=1a202c&dates=4a5568" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadUlHassan&layout=compact&hide_border=true&bg_color=f8f9fa&title_color=e74c3c&text_color=1a202c&langs_count=10&cache_seconds=86400" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salman8125&layout=compact&hide_border=true&bg_color=f8f9fa&title_color=e74c3c&text_color=1a202c&langs_count=10&cache_seconds=86400" width="42%" />
 
 </div>
 
@@ -492,7 +518,7 @@ Enterprise feedback platform with tablet kiosks, NPS/CSAT scoring, AI-driven ins
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=SaadUlHassan&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=10)
+![](https://github-profile-trophy.vercel.app/?username=Salman8125&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=10)
 
 </div>
 
@@ -500,7 +526,7 @@ Enterprise feedback platform with tablet kiosks, NPS/CSAT scoring, AI-driven ins
 
 ## 📈 &nbsp;Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SaadUlHassan&bg_color=f8f9fa&color=e74c3c&line=c0392b&point=1a202c&area=true&area_color=e74c3c&hide_border=true&custom_title=Contribution%20Activity)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Salman8125&bg_color=f8f9fa&color=e74c3c&line=c0392b&point=1a202c&area=true&area_color=e74c3c&hide_border=true&custom_title=Contribution%20Activity)
 
 ---
 
@@ -522,23 +548,18 @@ Enterprise feedback platform with tablet kiosks, NPS/CSAT scoring, AI-driven ins
 <br/>
 
 Whether you need a **technical co-founder**, a **senior engineer** to scale your product,
-or an **AI architect** to build intelligent systems, I deliver results that impact the bottom line.
+or a **cloud architect** to build resilient distributed systems, I deliver results that impact the bottom line.
 
 <br/>
 
-<a href="https://www.linkedin.com/in/saad-ul-hassan-72a7b1190/">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;
-<a href="https://www.saadulhassan.dev/">
-  <img src="https://img.shields.io/badge/View_Portfolio-e74c3c?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>&nbsp;
-<a href="mailto:saad.ul.hussan17@gmail.com">
-  <img src="https://img.shields.io/badge/Start_a_Conversation-c0392b?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<!-- Contact links — fill in once ready -->
+<!-- LinkedIn: -->
+<!-- Email:    -->
+<!-- Phone:    -->
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SaadUlHassan&color=e74c3c&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Salman8125&color=e74c3c&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br/>
 
