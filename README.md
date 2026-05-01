@@ -44,6 +44,11 @@ class SalmanEjaz {
     "E-Commerce",
     "Enterprise SaaS",
     "Data Engineering & Analytics",
+    "E-Commerce & POS Platforms",
+    "Transportation & Logistics",
+    "Fitness & Wellbeing",
+    "Booking & Reservation Systems",
+    "EdTech & Learning Platforms",
   ];
 
   readonly architecture = [
@@ -57,10 +62,10 @@ class SalmanEjaz {
   ];
 
   readonly currentFocus = {
-    building:    "Java Spring Boot microservices for fintech compliance",
-    shipping:    "Kafka event-driven pipelines with Outbox + Debezium CDC",
-    leading:     "End-to-end compliance module: screening, case mgmt, sanctions",
-    innovating:  "MCP-based AI orchestration with secure structured tool-calling",
+    building:    "Multi-tenant AI infrastructure at enterprise scale",
+    shipping:    "Booking & Reservation • Community • Housing platforms",
+    leading:     "Engineering strategy & cross-platform product delivery",
+    innovating:  "RAG pipelines • MCP ecosystems • Real-time voice AI",
   };
 
   get philosophy(): string {
