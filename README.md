@@ -562,26 +562,44 @@ Developed AI/ML models with **scikit-learn and TensorFlow** for product insights
 <div align="center">
 
 ```
-┌──────────────────────┬──────────────────────┬──────────────────────┐
-│    SYSTEM DESIGN     │   DESIGN PATTERNS    │    INFRASTRUCTURE    │
-├──────────────────────┼──────────────────────┼──────────────────────┤
-│  Microservices       │  SOLID Principles    │  AWS Multi-Region    │
-│  Event-Driven Arch   │  Repository Pattern  │  Docker + K8s        │
-│  Serverless          │  Outbox + CDC        │  CI/CD Pipelines     │
-│  Multi-Tenant SaaS   │  Observer / Pub-Sub  │  Blue-Green Deploy   │
-│  Domain-Driven (DDD) │  Factory / Strategy  │  Load Balancing      │
-│  CQRS + Event Source │  Middleware Chains   │  Auto-Scaling        │
-│  Distributed / SOA   │  Idempotency Keys    │  Terraform / IaC     │
-├──────────────────────┼──────────────────────┼──────────────────────┤
-│      DATA LAYER      │       SECURITY       │       QUALITY        │
-├──────────────────────┼──────────────────────┼──────────────────────┤
-│  Schema Optimization │  OAuth 2.0 / JWT     │  TDD / BDD           │
-│  Query Refactoring   │  RBAC / ABAC         │  Unit + Integration  │
-│  DB Indexing         │  Secure HTTP Headers │  E2E + Perf Testing  │
-│  Caching Strategies  │  Input Validation    │  Code Reviews        │
-│  Data Migrations     │  Rate Limiting       │  Observability       │
-│  Iceberg Lakehouse   │  HIPAA / PCI-DSS     │  SonarQube / JaCoCo  │
-└──────────────────────┴──────────────────────┴──────────────────────┘
+┌────────────────────────────────┬────────────────────────────────┬────────────────────────────────┐
+│ ARCHITECTURE STYLES            │ TACTICAL DESIGN                │ INTEGRATION & RESILIENCE       │
+├────────────────────────────────┼────────────────────────────────┼────────────────────────────────┤
+│ Microservices / Modular Mono   │ Hexagonal / Ports & Adapters   │ Saga (Choreo + Orchestrated)   │
+│ Event-Driven (Kafka, Pulsar)   │ Clean / Onion Architecture     │ Outbox + Inbox + CDC           │
+│ Serverless (Lambda, Knative)   │ Domain-Driven Design (DDD)     │ Anti-Corruption Layer          │
+│ CQRS + Event Sourcing          │ Aggregates / Bounded Contexts  │ Sidecar / Ambassador / Proxy   │
+│ Reactive Systems (Akka, RxJS)  │ Repository / Specification     │ Circuit Breaker / Bulkhead     │
+│ Service Mesh (Istio, Linkerd)  │ Factory / Strategy / Visitor   │ Retry + Timeout + Backoff      │
+│ Cell-Based / Bulkheaded Arch   │ Mediator / Chain-of-Resp.      │ Backpressure / Throttling      │
+│ Multi-Tenant SaaS (Pool/Silo)  │ Observer / Pub-Sub / CQS       │ API Gateway / BFF / Aggregator │
+│ Strangler Fig / Branch-by-Abs  │ Decorator / Adapter / Proxy    │ Two-Phase Commit / TCC / 2PC   │
+├────────────────────────────────┼────────────────────────────────┼────────────────────────────────┤
+│ INFRASTRUCTURE & CLOUD         │ DATA & PERSISTENCE             │ STREAMING & ANALYTICS          │
+├────────────────────────────────┼────────────────────────────────┼────────────────────────────────┤
+│ Multi-Region / Multi-Cloud     │ Polyglot Persistence           │ Kafka / Pulsar / Kinesis       │
+│ Kubernetes + Helm + Operators  │ Sharding / Partitioning        │ Flink / Spark Structured Stream│
+│ Terraform / Pulumi / AWS CDK   │ Replicas / Leader–Follower     │ Iceberg / Delta / Hudi         │
+│ GitOps (ArgoCD / Flux)         │ CDC (Debezium) / Logical Repl. │ Lambda + Kappa Architecture    │
+│ Blue-Green / Canary / Shadow   │ Indexing / Query Plans `       │ Medallion                      │
+│ Auto-Scaling (HPA / VPA / KEDA)│ Caching (Redis / CDN / Edge)   │ Real-Time OLAP (Pinot, Druid)  │
+│ Chaos Engineering (Litmus)     │ Vector DBs (pgvector, FAISS)   │ dbt + Airflow / Dagster        │
+│ Edge Compute / CDN Workers     │ Time-Series (Timescale, Influx)│ Event Store / Snapshotting     │
+│ FinOps / TCO Optimization      │ HTAP (Spanner, CockroachDB)    │ Schema Registry (Avro / Proto) │
+├────────────────────────────────┼────────────────────────────────┼────────────────────────────────┤
+│ SECURITY & COMPLIANCE          │ QUALITY & TESTING              │ OBSERVABILITY & SRE            │
+├────────────────────────────────┼────────────────────────────────┼────────────────────────────────┤
+│ Zero Trust / BeyondCorp        │ TDD / BDD / ATDD               │ OpenTelemetry (Traces+Metrics) │
+│ OAuth 2.1 / OIDC / SAML / mTLS │ Contract Testing (Pact)        │ Distributed Tracing (Jaeger)   │
+│ RBAC / ABAC / ReBAC (Zanzibar) │ Property-Based / Mutation      │ SLI / SLO / SLA + Err Budgets  │
+│ Secrets Mgmt (Vault / KMS)     │ Chaos / Game-Day Exercises     │ RED + USE + Golden Signals     │
+│ SAST / DAST / SCA / IAST       │ Performance / Load / Soak      │ Structured Logs (ELK / Loki)   │
+│ Threat Modeling (STRIDE/PASTA) │ Consumer-Driven Contracts      │ DORA + Flow Metrics            │
+│ Supply Chain (SBOM / SLSA)     │ Snapshot / Visual Regression   │ Incident Mgmt + Postmortems    │
+│ WAF / DDoS / Bot Mitigation    │ Coverage (JaCoCo, Istanbul)    │ Runbooks / Playbooks / Toil    │
+│ SOC2 / GDPR / HIPAA / PCI-DSS  │ Static Analysis (SonarQube)    │ APM (Datadog / New Relic)      │
+│ FedRAMP / ISO 27001 / NIST CSF │ Architecture Fitness Functions │ Synthetic Monitoring + RUM     │
+└────────────────────────────────┴────────────────────────────────┴────────────────────────────────┘
 ```
 
 </div>
