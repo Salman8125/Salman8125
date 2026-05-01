@@ -47,9 +47,13 @@ class SalmanEjaz {
   ];
 
   readonly architecture = [
-    "Microservices",       "Event-Driven",      "Serverless",
-    "Multi-Tenant",        "Domain-Driven",     "Test-Driven",
-    "Distributed Systems", "SOA",               "Async Processing",
+    "Microservices",      
+    "Event-Driven",      
+    "Serverless",
+    "Multi-Tenant",        
+    "Domain-Driven",     
+    "Test-Driven",
+    "Distributed Systems"
   ];
 
   readonly currentFocus = {
