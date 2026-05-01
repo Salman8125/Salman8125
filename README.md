@@ -399,10 +399,10 @@ class SalmanEjaz {
 <tr>
 <td width="50%" valign="top">
 
-### > &nbsp;Compliance & Remittance Platform, Octaloops
+### > &nbsp;Senior Full-Stack AI Engineer
 > _Software Engineer @ Octaloops_
 
-Migrating a legacy .NET remittance & compliance platform to a **Java Spring Boot microservices** architecture:
+Building multi-tenant AI platforms powering enterprise operations:
 
 🔸 Owning the **end-to-end compliance module** — screening workflows, case management, sanction-check integrations  
 🔸 Designed **Kafka event-driven pipelines** with the Outbox pattern + Debezium CDC for transactional consistency  
