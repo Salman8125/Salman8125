@@ -399,7 +399,7 @@ Enterprise feedback platform with tablet kiosks, NPS/CSAT scoring, AI-driven ins
 │  Event-Driven Arch   │  Repository Pattern  │  Docker + K8s        │
 │  Serverless          │  Observer / Pub-Sub  │  CI/CD Pipelines     │
 │  Multi-Tenant SaaS   │  Factory / Strategy  │  Blue-Green Deploy   │
-│  Domain-Driven (DDD) │  MVC / MVVM         │  Load Balancing      │
+│  Domain-Driven (DDD) │  MVC / MVVM         │  Load Balancing       │
 │  CQRS + Event Source │  Middleware Chains   │  Auto-Scaling        │
 ├──────────────────────┼──────────────────────┼──────────────────────┤
 │      DATA LAYER      │       SECURITY       │       QUALITY        │
@@ -426,24 +426,24 @@ Enterprise feedback platform with tablet kiosks, NPS/CSAT scoring, AI-driven ins
   ┌────────────────────────────────────────────────────────────────────────┐
   │                                                                        │
   │  > 2025 -- Present                                                     │
-  │    TOPTAL (AgentPress)         Senior Full-Stack AI Engineer            │
-  │    United States (Remote)      Leading AI infrastructure & products     │
-  │                                RAG | MCP | Voice AI | Cross-Platform    │
+  │    TOPTAL (AgentPress)         Senior Full-Stack AI Engineer           │
+  │    United States (Remote)      Leading AI infrastructure & products    │
+  │                                RAG | MCP | Voice AI | Cross-Platform   │
   │                                                                        │
   │  > 2022 -- 2025                                                        │
-  │    EMBRACE-IT PAKISTAN          Senior Full Stack Engineer               │
-  │    Denmark (Remote)            Enterprise solutions | 3+ years          │
-  │                                React | Node | NestJS | React Native     │
+  │    EMBRACE-IT PAKISTAN          Senior Full Stack Engineer             │
+  │    Denmark (Remote)            Enterprise solutions | 3+ years         │
+  │                                React | Node | NestJS | React Native    │
   │                                                                        │
   │  > 2021 -- 2022                                                        │
-  │    SAUFIK                      Software Engineer -> Frontend Lead       │
-  │    Islamabad, Pakistan         Promoted for performance & leadership    │
-  │                                Led team of 4 | 85% bug fix rate         │
+  │    SAUFIK                      Software Engineer -> Frontend Lead      │
+  │    Islamabad, Pakistan         Promoted for performance & leadership   │
+  │                                Led team of 4 | 85% bug fix rate        │
   │                                                                        │
   │  > 2018 -- 2021                                                        │
-  │    INEFFABLE DEVS              Frontend Engineer                        │
-  │    Islamabad, Pakistan         React | Jest | Performance +33%          │
-  │                                Maintenance overhead reduced 25%         │
+  │    INEFFABLE DEVS              Frontend Engineer                       │
+  │    Islamabad, Pakistan         React | Jest | Performance +33%         │
+  │                                Maintenance overhead reduced 25%        │
   │                                                                        │
   └────────────────────────────────────────────────────────────────────────┘
 ```
