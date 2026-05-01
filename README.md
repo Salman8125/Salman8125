@@ -447,104 +447,83 @@ Migrating a legacy .NET remittance & compliance platform to a **Java Spring Boot
 <tr>
 <td width="50%" valign="top">
 
-### 💸 &nbsp;Compliance & Remittance Platform Migration
-> _Octaloops — Fintech_
+### <img src="https://github.com/hicommonwealth.png" width="22" align="center" /> &nbsp;Common
+> _Platform for Decentralized Communities_
 
-Migrated a legacy .NET remittance and compliance platform to a Java Spring Boot microservices architecture, owning the end-to-end compliance module: screening workflows, case management, and sanction-check integrations.
+Crypto-native platform for on-chain communities — token launches, governance, forums, and rewards. Powers 1.7M+ users across EVM, Cosmos, and Solana.
 
-🔸 **PCI-aligned** &nbsp; 🔸 **Spring Boot Microservices** &nbsp; 🔸 **Compliance**
+🔸 **1.7M+ Users** &nbsp; 🔸 **Multi-Chain** &nbsp; 🔸 **On-Chain Governance**
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate%2FJPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-000000?style=flat-square&logo=auth0&logoColor=white)
-![PCI-DSS](https://img.shields.io/badge/PCI--DSS-1F3864?style=flat-square)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3.js&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
+
+<a href="https://common.xyz/"><img src="https://img.shields.io/badge/Live-common.xyz-e74c3c?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+<a href="https://github.com/hicommonwealth/commonwealth"><img src="https://img.shields.io/badge/GitHub-hicommonwealth-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🔁 &nbsp;Kafka Event-Driven Pipelines (Outbox + CDC)
-> _Octaloops — Distributed Systems_
+### 🏘️ &nbsp;KEYS Community
+> _Connect With Your Neighbourhood_
 
-Designed Kafka pipelines using the **Outbox pattern with Debezium CDC** to reliably capture DB changes and publish events — ensuring transactional consistency, idempotent processing, and zero data loss across distributed services.
+Cross-platform community app connecting residents with local services, events, and committees. Backend, web, admin panel, and ML-powered service classification.
 
-🔸 **Outbox + CDC** &nbsp; 🔸 **Idempotent** &nbsp; 🔸 **Zero Data Loss**
+🔸 **Web + iOS + Android** &nbsp; 🔸 **ML Classification** &nbsp; 🔸 **Multi-tenant**
 
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Debezium](https://img.shields.io/badge/Debezium_CDC-D81A0F?style=flat-square&logo=debezium&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+<a href="https://keyscommunity.co.uk/"><img src="https://img.shields.io/badge/Live-keyscommunity.co.uk-e74c3c?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 &nbsp;MCP-Based AI Orchestration
-> _Octaloops — AI Engineering Workflows_
+### 💪 &nbsp;Fitness & Wellbeing Platform
+> _Enterprise Boutique Fitness Management_
 
-Shipped an MCP-based AI orchestration with **secure structured tool-calling**, improving engineering iteration speed and reducing human error in day-to-day delivery workflows. Productionized with prompt/version management, cost monitoring, and output evaluation.
+Multi-tenant SaaS powering boutique fitness studios — class scheduling, member management, billing, and real-time analytics across hundreds of locations.
 
-🔸 **MCP Servers** &nbsp; 🔸 **Tool-Calling** &nbsp; 🔸 **Cost-Controlled**
+🔸 **Multi-tenant SaaS** &nbsp; 🔸 **Ember + Django** &nbsp; 🔸 **Enterprise Scale**
 
-![MCP Servers](https://img.shields.io/badge/MCP-8B5CF6?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔌 &nbsp;Workflow Orchestration Microservices
-> _Filzbe — Real-Time Event Streaming_
-
-Built **Node.js & Python microservices** for workflow orchestration, secure message routing, and real-time event streaming over RabbitMQ across distributed environments. Resilient containerized deployments across on-prem and cloud.
-
-🔸 **RabbitMQ** &nbsp; 🔸 **Node + Python** &nbsp; 🔸 **Containerized**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Ember.js](https://img.shields.io/badge/Ember.js-E04E39?style=flat-square&logo=ember.js&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
-### 🧊 &nbsp;ETL Pipelines & Apache Iceberg Data Lake
-> _Techorra — Data Engineering_
+### 💸 &nbsp; Remittance & Compliance
+> _Event-Driven Microservices for Cross-Border Payments_
 
-Engineered serverless **ETL pipelines on AWS** (Lambda, Glue, CDK, CloudFormation, S3, DynamoDB) and an **Apache Iceberg** data lake integrated with AWS Athena and Snowflake for scalable analytics and historical querying.
+Regional digital bank serving millions across the GCC with multi-currency wallets, international remittances, and end-to-end compliance.
 
-🔸 **Serverless ETL** &nbsp; 🔸 **Iceberg Lakehouse** &nbsp; 🔸 **Athena + Snowflake**
+🔸 **70% Faster APIs** &nbsp; 🔸 **PCI-DSS Aligned** &nbsp; 🔸 **Outbox + CDC**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![Glue](https://img.shields.io/badge/Glue-FF9900?style=flat-square&logo=awsglue&logoColor=white)
-![Apache Iceberg](https://img.shields.io/badge/Iceberg-1394C7?style=flat-square&logo=apache&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 📈 &nbsp;AI/ML Insights Platform
-> _Techorra — AI/ML + Analytics_
-
-Developed AI/ML models with **scikit-learn and TensorFlow** for product insights and performance forecasts using ensemble-learning techniques. Built **Django** APIs and **React** dashboards over MongoDB aggregations for KPI visualization.
-
-🔸 **scikit-learn + TF** &nbsp; 🔸 **Django + React** &nbsp; 🔸 **Mongo Aggregations**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Debezium](https://img.shields.io/badge/Debezium_CDC-D32F2F?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![AWS ECS](https://img.shields.io/badge/AWS_ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
 
 </td>
 </tr>
@@ -616,8 +595,8 @@ Developed AI/ML models with **scikit-learn and TensorFlow** for product insights
   ┌────────────────────────────────────────────────────────────────────────┐
   │                                                                        │
   │  > Nov 2023 -- Present                                                 │
-  │    OCTALOOPS                   Software Engineer                       │
-  │                                Fintech compliance & remittance         │
+  │    OCTALOOPS                   Senior Full-Stack AI Engineer           │
+  │                                Leading AI infrastructure & products    | 
   │                                Java Spring Boot | Kafka + Debezium CDC │
   │                                MCP-based AI orchestration | PCI-DSS    │
   │                                                                        │
@@ -716,10 +695,6 @@ or a **cloud architect** to build resilient distributed systems, I deliver resul
 <!-- LinkedIn: -->
 <!-- Email:    -->
 <!-- Phone:    -->
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Salman8125&color=e74c3c&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br/>
 
